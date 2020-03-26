@@ -1,6 +1,6 @@
 # repoTeste
 
-! [./GitHub-Social-Coding.jpg](Curso de Git e Github)
+! [Curso de Git e Github Udemy](./GitHub-Social-Coding.jpg)
 
 O curso é voltado para iniciantes e aqueles que nunca tiveram contato com Git e GitHub. Aqueles que já possuem experiência com Git também poderão estar aprendendo conceitos novos com o curso. Como Git é uma ferramenta de colaboração, você pode ter uma experiência mais interessante fazendo as aulas do curso junto com outras pessoas.
 
